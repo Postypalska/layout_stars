@@ -1,7 +1,5 @@
 .stars {
   display: flex;
-  width: 96px;
-  margin-left: 1.5px;
 }
 
 .stars__star {
